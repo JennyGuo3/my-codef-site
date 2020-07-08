@@ -10,6 +10,8 @@ _First-hand student insight on how to secure internships and successfully naviga
 
 Hi everyone! I'm Jenny and I am a first year Economics student at the University of Warwick. As the a first-generation student and the first in my family to attend University, I understand how daunting academic and professional decisions can be and the barriers in navigating the application process. 
 
+ ![Jenny](Jenny.jpg)
+
 As someone who spent the majority of their life doing 'trial and error' to find out what works best, I hope I can share my knowledge and experience to other fellow students in similar positions to also secure internships and offers.
 
 I will be sharing insights into what makes a successful CV and cover letter, how to ace online tests and interviews, as well as assessment centres so you can secure that dream offer from your target firm!

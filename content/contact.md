@@ -20,6 +20,7 @@ weight: 7
     <label>Your Role: <select name="Occupation[]" multiple>
       <option value="Full-time student">Full-time student</option>
       <option value="Graduate">Graduate</option>
+      <option value="Other">Other</option>
     </select></label>
   </p>
   <p>
