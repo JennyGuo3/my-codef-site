@@ -7,9 +7,9 @@ draft: false
 
 # What is an assessment centre?
 
-Not every firm does this Usually
-held at the firm’s offic Consists of a combination of individual and group tasks and activities from writing email/report, group presentation, case study
-Usually lasting from 9am – 5:30pm
+- Not every firm does this 
+- Usually held at the firm’s offic Consists of a combination of individual and group tasks and activities from writing email/report, group presentation, case study
+- Usually lasting from 9am – 5:30pm
 
 # Assessment Centre Structure
 Assessment centres vary in length, style and content, but an example assessment day might be as follows:
