@@ -34,6 +34,10 @@ Then consolidate this information into a couple sticky notes.
 During the video interview, stick it on your laptop for referral.
 Make sure to not keep looking at the sticky notes throughout the interview.
 
+
+ ![VideoInterview](/Video.jpg)
+
+
 ## Telephone Interview
 - A telephone interview is a **pre-scheduled job interview**, typically lasting half an hour.
 - With technological advancements video interviews are becoming increasingly popular, but plenty of employers still use telephone interviews as part of their recruitment process.
@@ -48,6 +52,8 @@ Use the **STAR technique** for competency-based interview questions.
 -  Dress as if you were meeting in person to put you in a **professional frame of mind**.
 - **Write down any questions** you want to ask. 
 - **Listen carefully** to all the questions and think before answering.
+
+ ![PhoneInterview](/Phone.jpg)
 
 ## In-Person Interview
 - An in-person interview refers to the **face-to-face
@@ -70,6 +76,7 @@ meeting** of the interviewee with the interviewer.
 - If asked about weakness, turn it into a **strength**.
 - **Speak clearly**, continuously and with projection.
 
+ ![PersonInterview](/Person.jpg)
 
 ## Additional Interview Tips
 - **Reframe the way you think** – instead of this is impossible, change to ‘I can do it’.
