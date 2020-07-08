@@ -14,9 +14,12 @@ weight: 7
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+  	  <label>Your Number <input type="Number" name="Number" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="Occupation[]" multiple>
+      <option value="Full-time student">Full-time student</option>
+      <option value="Graduate">Graduate</option>
     </select></label>
   </p>
   <p>
