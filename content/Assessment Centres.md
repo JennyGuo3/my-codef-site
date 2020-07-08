@@ -3,6 +3,7 @@ title: "Assessment Centres"
 date: 2020-07-07T15:50:01+01:00
 menu: "main"
 draft: false
+weight: 6
 ---
 
 # What is an assessment centre?

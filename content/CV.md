@@ -3,6 +3,7 @@ title: "CV Guide"
 date: 2020-07-07T14:46:44+01:00
 menu: "main"
 draft: false
+weight: 2
 ---
 # What is a CV?
 - A document that provides an overview of your skills, work experience and academic achievements.

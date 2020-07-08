@@ -3,6 +3,7 @@ title: "Interviews"
 date: 2020-07-07T15:49:38+01:00
 menu: "main"
 draft: false
+weight: 5
 ---
 
 # Types of Online Tests

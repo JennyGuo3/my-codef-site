@@ -2,6 +2,7 @@
 title: "About"
 date: 2020-07-07T14:11:58+01:00
 draft: false
+weight: 1
 ---
 
 # CareerBoost

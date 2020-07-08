@@ -3,6 +3,7 @@ title: "Cover Letter Guide"
 date: 2020-07-07T15:47:43+01:00
 menu: "main"
 draft: false
+weight: 3
 ---
 
 # What is a Cover Letter?

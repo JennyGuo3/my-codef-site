@@ -3,6 +3,7 @@ title: "Online Tests"
 date: 2020-07-07T15:48:27+01:00
 menu: "main"
 draft: false
+weight: 4
 ---
 
 # Types of Online Tests
