@@ -14,7 +14,7 @@ Fret not, you are in the right place! CareerBoost will provide you with insider 
 
 There is no one shot trick that can magically help you secure offers from all the top target firms. It requires preparation, hard-work, dedication, organisation and time-management. Now this might not be what you want to hear, but trust me, it is worth it in the end. 
 
- # Career Motivation
+# Career Motivation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwixREUJOI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
