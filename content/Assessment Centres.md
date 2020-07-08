@@ -52,3 +52,5 @@ Assessment centres vary in length, style and content, but an example assessment 
 - **Contribute** to group discussions
 - **Do not be over-dominating** but at same time, do not be too quiet
 - **Dress professionally** and smile
+
+ ![AC](/AC.jpg)

@@ -59,4 +59,4 @@ personality, why you want the job and gain insight into your application.
 (it's free!)
 - **Incorrect information​** -Don‘t slip up and include the wrong company‘ s name or any other errors! If this happens then you can wave bye-bye to that application. 
 - Have a ​**professional email address**
-- **No Negativity** -​ never complain about previous employment or school experiences in your cover letter,
+- **No Negativity** -​ never complain about previous employment or school experiences in your cover letter.
