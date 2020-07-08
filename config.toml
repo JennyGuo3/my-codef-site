@@ -23,7 +23,7 @@ enableRobotsTXT = true
   facebook = ""
   twitter = "https://twitter.com/CareerBuilder"
   instagram = ""
-  youtube = "<iframe width="560" height="315" src="https://www.youtube.com/embed/we7zHcsgo0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+  youtube = "<https://www.youtube.com/watch?v=we7zHcsgo0o"
   github = ""
   gitlab = ""
   linkedin = "https://www.linkedin.com/in/jenny-guo/"
