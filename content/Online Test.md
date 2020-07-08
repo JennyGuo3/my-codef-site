@@ -92,3 +92,5 @@ https://www.situationaljudgementtest.org.uk/
 https://www.shldirect.com/en/assessment-advice/example-questions/situational-judgement
  https://www.abdn.ac.uk/careers/resources/tags/180/
 https://www.careers.manchester.ac.uk/applicationsinterviews/psychometric/sjt/
+
+ ![Test](/Test.jpg)

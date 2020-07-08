@@ -97,4 +97,4 @@ meeting** of the interviewee with the interviewer.
 - What was one thing that **surprised** you when starting your work at the firm?
 - Given your career experience, what is the biggest **life lesson** you would pass onto someone like me?
 
-
+ ![Interview](/Interview.jpg)

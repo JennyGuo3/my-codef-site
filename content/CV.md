@@ -58,4 +58,4 @@ draft: false
 8. **Show your personality** - mention achievements at school or your personal interests and hobbies.
 9. A **strong cover letter** - to make up for your lack of work experience, you need to demonstrate your enthusiasm, capability and passion for the job.
 
-
+ ![CV](/CV.jpg)
