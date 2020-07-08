@@ -27,3 +27,5 @@ weight: 7
   </p>
 </form>
 
+ ![Contact](/Contact.jpg)
+
