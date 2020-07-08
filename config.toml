@@ -1,5 +1,5 @@
 title = "CareerBoost"
-baseURL = "https://example.com"
+baseURL = "https://xenodochial-lovelace-e17126.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
