@@ -1,5 +1,5 @@
 ---
-title: "Assessment Centres"
+title: "Assessment Centre"
 date: 2020-07-07T15:50:01+01:00
 menu: "main"
 draft: false
