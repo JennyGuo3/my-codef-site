@@ -4,7 +4,7 @@ date: 2020-07-07T11:07:34+01:00
 draft: false
 ---
 
-# Welcome to CareerBoost!
+<h1 class="ba bw2 f1 mt3 mb1 b--purple">Welcome to CareerBoost!</h1> 
 
 *The to-go-to place for career advice*
 
@@ -14,7 +14,8 @@ Fret not, you are in the right place! CareerBoost will provide you with insider 
 
 There is no one shot trick that can magically help you secure offers from all the top target firms. It requires preparation, hard-work, dedication, organisation and time-management. Now this might not be what you want to hear, but trust me, it is worth it in the end. 
 
-# Career Motivation
+
+<h1 class="ba bw2 f1 mt3 mb1 b--purple">Career Motivation</h1> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwixREUJOI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

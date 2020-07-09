@@ -44,7 +44,7 @@ Assessment centres vary in length, style and content, but an example assessment 
 - Get a **good night sleep** and have breakfast.
 
 
-<h1 class="ba bw2 f1 mt3 mb1 b--orange">Assessment Centre Tips</h1> 
+<h1 class="ba bw2 f1 mt3 mb1 b--orange background">Assessment Centre Tips</h1> 
 
 - Are **assertive** during all exercises
 - Don't dwell on any mistakes, instead **concentrate** on performing well in the next task text
