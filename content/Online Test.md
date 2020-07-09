@@ -6,7 +6,8 @@ draft: false
 weight: 4
 ---
 
-# Types of Online Tests
+<h1 class="ba bw2 f1 mt3 mb1 b--green">Types of Online Tests</h1> 
+
 - Numerical Reasoning
 - Verbal Reasoning 
 - Logical Reasoning
@@ -34,7 +35,9 @@ weight: 4
 - Used to evaluate your behavioural and cognitive abilities when presented with hypothetical work-related situations.
 - The tests are designed to measure your fit for a company and role based on cognitive abilities, personality traits and social skills.
 
-# How To Ace Online Tests
+
+<h1 class="ba bw2 f1 mt3 mb1 b--green">How To Ace Online Tests</h1> 
+
 ## Numerical Reasoning
 1. Practice your **basic math skills**: addition, subtraction, multiplication, division, percentages and ratios. 
 2. Find out who your **test provider** is – practice a sample of questions.

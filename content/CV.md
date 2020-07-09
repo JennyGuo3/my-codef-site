@@ -5,13 +5,16 @@ menu: "main"
 draft: false
 weight: 2
 ---
-# What is a CV?
+
+<h1 class="ba bw2 f1 mt3 mb1 b--blue">What is a CV? </h1> 
+
 - A document that provides an overview of your skills, work experience and academic achievements.
 - A CV is one to two pages long.
 - A CV provides a snapshot of your academic and professional life for employers.
 
 
-# CV Structure
+<h1 class="ba bw2 f1 mt3 mb1 b--blue">CV Structure</h1> 
+
 - **Contact Details**: Phone number, professional email address and LinkedIn profile link. Do not include home address details.
 - **Key Skills**: Mention any technical skills you may have (python, language skills etc)
 - **Education**: University degree course, duration of degree, relevant modules, achieved/predicted grades and sixth form A-Level and GCSE Grades.
@@ -21,7 +24,8 @@ weight: 2
 - **Interests**: mention something that makes you unique beyond your professional career.
 - **References**: mention one or two references who can vouch for your attributes, CV content and character.
 
-# How to write a good CV?
+
+<h1 class="ba bw2 f1 mt3 mb1 b--blue">How to write a good CV?</h1> 
 
 **TIP ONE**
 - Keep the CV to 1 page, max 2 pages. An employer spends an average of 8 seconds, if that, looking at a CV, so keep it concise and punchy.
@@ -48,7 +52,9 @@ weight: 2
 **TIP EIGHT**
 - Ask someone else to double-check your CV as employers do care about mistakes
 
-# How to write a CV with no work experience?
+
+<h1 class="ba bw2 f1 mt3 mb1 b--blue">How to write a CV with no work experience?</h1> 
+
 1. Get **experience**! It is much easier than you think - it does not have to be some special hedge fund role or working for the UN.
 2. **Volunteer** at a local charity shop/with charities.
 3. Work at a **restaurant/cafe**.

@@ -6,12 +6,15 @@ draft: false
 weight: 5
 ---
 
-# Types of Online Tests
+<h1 class="ba bw2 f1 mt3 mb1 b--red">Types of Interviews</h1> 
+
 - Video interview
 - Telephone interview
 - In-person interview
 
-## Video Interview
+<h1 class="ba bw2 f1 mt3 mb1 b--red fs-normal { font-style: small}">Video Interview</h1> 
+
+
 - A video interview takes place remotely and uses video technology as the communication medium.
 - There are two main types of video
 interviews: synchronous and asynchronous.
@@ -20,6 +23,7 @@ interviews: synchronous and asynchronous.
 
 
 ## Video Interview Tips
+
 - **Test your technology** – make sure everything is working, stable internet connection, good camera and mic.
 - Ensure your tablet or laptop is **fully charged**. Avoid using mobile phone.
 - Be in a **distraction-free area**, switch off phone notifications and lock the door.
@@ -39,7 +43,8 @@ Make sure to not keep looking at the sticky notes throughout the interview.
  ![VideoInterview](/Video.jpg)
 
 
-## Telephone Interview
+<h1 class="ba bw2 f1 mt3 mb1 b--red fs-normal { font-style: small}">Telephone Interview</h1> 
+
 - A telephone interview is a **pre-scheduled job interview**, typically lasting half an hour.
 - With technological advancements video interviews are becoming increasingly popular, but plenty of employers still use telephone interviews as part of their recruitment process.
 
@@ -56,7 +61,8 @@ Use the **STAR technique** for competency-based interview questions.
 
  ![PhoneInterview](/Phone.jpg)
 
-## In-Person Interview
+<h1 class="ba bw2 f1 mt3 mb1 b--red fs-normal { font-style: small}">In Person Interview</h1> 
+
 - An in-person interview refers to the **face-to-face
 meeting** of the interviewee with the interviewer.
 - This is a traditional mode of interview which companies are following since before the emergence of technology.
@@ -90,7 +96,8 @@ meeting** of the interviewee with the interviewer.
 - **Practice** in front of a mirror, to your family, to your friends!
 - **Do not leave the interview without having asked a question to the interviewer**. You need to show your passion and enthusiasm to learn!
 
-# STAR Technique 
+<h1 class="ba bw2 f1 mt3 mb1 b--red fs-normal { font-style: small}">STAR Technique </h1> 
+
 - **Situation**: Start by outlining the situation you were in,
 - **Task**: Talk about the task at hand. What was required of you?
 - **Action**: What did you do? WHat action/s did you take and why?

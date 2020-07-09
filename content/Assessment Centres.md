@@ -6,13 +6,15 @@ draft: false
 weight: 6
 ---
 
-# What is an assessment centre?
+<h1 class="ba bw2 f1 mt3 mb1 b--orange">What is an assessment centre?</h1> 
 
 - Not every firm does this 
 - Usually held at the firm’s offic Consists of a combination of individual and group tasks and activities from writing email/report, group presentation, case study
 - Usually lasting from 9am – 5:30pm
 
-# Assessment Centre Structure
+
+<h1 class="ba bw2 f1 mt3 mb1 b--orange">Assessment Centre Structure</h1> 
+
 Assessment centres vary in length, style and content, but an example assessment day might be as follows:
 - 09.00 - arrival and introduction
 - 09.15 - employer presentation and group ice-breaker exercise
@@ -25,7 +27,9 @@ Assessment centres vary in length, style and content, but an example assessment 
 - 17.15 - evaluation
 - 17.30 - finish.
 
-## How To Prepare For AC
+
+<h1 class="ba bw2 f1 mt3 mb1 b--orange">How To Prepare For AC</h1> 
+
 - Call the organisation's **graduate recruitment team** if something is unclear.
 - **Give yourself time to complete** and practise any material that you've been asked to prepare.
 - Identify which skills, interests and experiences the employer is looking for by revisiting the job description and any other material that the company has sent you.
@@ -39,7 +43,9 @@ Assessment centres vary in length, style and content, but an example assessment 
 - Perfect your **presentation skills**. If public speaking is not your strength, practice speaking out loud in front of other people.
 - Get a **good night sleep** and have breakfast.
 
-## AC Tips
+
+<h1 class="ba bw2 f1 mt3 mb1 b--orange">Assessment Centre Tips</h1> 
+
 - Are **assertive** during all exercises
 - Don't dwell on any mistakes, instead **concentrate** on performing well in the next task text
 - Ensure that the **assessors** can see your working methodology

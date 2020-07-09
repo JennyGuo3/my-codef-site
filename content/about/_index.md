@@ -4,8 +4,16 @@ date: 2020-07-07T14:11:58+01:00
 draft: false
 weight: 1
 ---
+<style> blockquote {
+	background-color: rgb(94, 44, 165, 0.5); 
+	color: white
+} </style> 
 
-# CareerBoost
+
+
+<h1 class="ba bw2 f1 mt3 mb1 b--purple">CareerBoost</h1> 
+
+
 _First-hand student insight on how to secure internships and successfully navigate the application process_
 
 Hi everyone! I'm Jenny and I am a first year Economics student at the University of Warwick. As the a first-generation student and the first in my family to attend University, I understand how daunting academic and professional decisions can be and the barriers in navigating the application process. 

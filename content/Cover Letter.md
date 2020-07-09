@@ -6,12 +6,16 @@ draft: false
 weight: 3
 ---
 
-# What is a Cover Letter?
+
+<h1 class="ba bw2 f1 mt3 mb1 b--yellow">What is a Cover Letter?</h1> 
+
 - A one-page document attached to a CV tailored for the job and company at hand. CV Allows you to highlight certain areas you think would make you right for the role. 
 - Enables you to bring something extra to the job you are applying for, enables the employer to learn even more about you, your
 personality, why you want the job and gain insight into your application.
 
-# Cover Letter Structure
+
+<h1 class="ba bw2 f1 mt3 mb1 b--yellow">Cover Letter Structure?</h1> 
+
 - **Contact Details** (Name, first line of address, city, postcode, details of addressee, date, subject of letter)
 - **Introduction**: Two-three sentences about your current status and interest in the position.
 - **First paragraph**: addresses your interest in the role and why you would like to work at this company.
@@ -20,7 +24,10 @@ personality, why you want the job and gain insight into your application.
 - **Conclusion**: thank them for their consideration  and time.
 - **Closing**:  Only use yours faithfully if you have addressed them as 'Sir/Madam'. Otherwise, you can use yours sincerely if you have used their name. Finally, include your name along with a contact number and email address below.
 
-# How to prepare for a Cover Letter?
+
+<h1 class="ba bw2 f1 mt3 mb1 b--yellow">How to prepare for a Cover Letter?</h1> 
+
+
 1. **Research the Company**
 - Tailoring a cover letter will involve knowing different parts of the company.
 - Company's culture and values. 
@@ -43,12 +50,15 @@ personality, why you want the job and gain insight into your application.
 - Any stand-out attributes.
 - Hobbies and interests.
 
-# How to write a Cover Letter with no work experience?
+<h1 class="ba bw2 f1 mt3 mb1 b--yellow">How to write a Cover Letter with no work experience?</h1> 
+
 - **Show off your education** - mention any relevant academic achievements, school projects that you can showcase your skills.
 - **Demonstrate your enthusiasm**- what are your career aspirations and ambition for this position. 
 - **Transferable skills** - demonstrate your soft skills and match it to the job description. think back to group projects etc.
 
-# Cover Letter Tips
+
+<h1 class="ba bw2 f1 mt3 mb1 b--yellow">Cover Letter Tips</h1> 
+
 - **Don’t waffle on**!​ Maximum is one page and be clear and concise.
 - Match your **tone of voice** with theirs​ - Scan through the job description? How are they talking? 
 - Remember your **font size​** -Keep it to size 12 and font style Arial.
