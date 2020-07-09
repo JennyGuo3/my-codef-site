@@ -16,7 +16,8 @@ weight: 1
 
 _First-hand student insight on how to secure internships and successfully navigate the application process_
 
-Hi everyone! I'm Jenny and I am a first year Economics student at the University of Warwick. As the a first-generation student and the first in my family to attend University, I understand how daunting academic and professional decisions can be and the barriers in navigating the application process. 
+Hi everyone! I'm Jenny and I am a first year Economics student at the University of Warwick. 
+As a first-generation student and the first in my family to attend University, I understand how daunting academic and professional decisions can be and the barriers in navigating the application process. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cxbSFyyLJkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
